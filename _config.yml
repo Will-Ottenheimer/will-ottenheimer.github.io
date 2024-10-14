@@ -12,7 +12,7 @@ title                    : "William Ottenheimer / PhD Economics Candidate"
 title_separator          : "-"
 name                     : &name "William Ottenheimer"
 description              : &description "personal description"
-url                      : https://william.ottenheimer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://will-ottenheimer.github.io/william.ottenheimer.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Will-Ottenheimer/william.ottenheimer.github.io"
 
