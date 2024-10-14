@@ -2,10 +2,7 @@
 title: "Teaching Statement"
 collection: teaching
 ---
-I have a reverent, equitable, and pragmatic approach to education. I believe in time tested strategies for effective
-learning coupled with modern practices to maximize engagement and retention. My goal as an educator is to
-connect people to ideas, facilitate opportunities to advance knowledge and prepare students for future
-educational and professional endeavors.
+
 
 1. Philosophy
     ---
