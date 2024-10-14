@@ -21,7 +21,7 @@ repository               : "Will-Ottenheimer/william.ottenheimer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "will-bio-photo.jpeg"
+  avatar           : "willbiophoto.jpeg"
   name             : "William Ottenheimer"
   pronouns         : # example: "she/her"  
   bio              : "He/Him"
