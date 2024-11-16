@@ -7,4 +7,5 @@ redirect_from:
   
 ---
 
-Research Statement <a href="Researchstatement.pdf" class="image fit"><img src="" alt="">here</a>
+Research Statement <a href="/files/ResearchStatement.pdf" target="_blank">here</a>
+
