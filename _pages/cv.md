@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV available <a href="CV Ottenheimer.pdf" class="image fit"><img src="" alt="">here</a>
+CV available <a href="/files/CVOttenheimer.pdf" target="_blank">here</a> 
