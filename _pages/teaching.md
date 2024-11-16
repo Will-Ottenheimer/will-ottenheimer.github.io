@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-Teaching Statement <a href="Teachingstatement.pdf" class="image fit"><img src="" alt="">here</a>
+Teaching Statement <a href="/files/Teachingstatement.pdf" target="_blank">here</a>
